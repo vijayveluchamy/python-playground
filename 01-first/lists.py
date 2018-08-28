@@ -13,3 +13,6 @@ print(alpha[1:3]) # B C
 alpha.extend(['H', 'I'])
 print(alpha)
 
+#Append an item
+alpha.append('J');
+print(alpha)
